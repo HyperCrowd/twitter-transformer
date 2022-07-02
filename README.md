@@ -4,7 +4,7 @@ Easily sets up TypeScript server-side projects that are StackBlitz compliant. Co
 
 ## Install
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/hypercrowd/twitter-transformer)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/PsySecGroup/twitter-transformer)
 
 `npm i -S @psysecgroup/twitter-transformer` or `yarn add @psysecgroup/twitter-transformer`
 
